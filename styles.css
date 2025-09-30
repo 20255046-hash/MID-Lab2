@@ -1,0 +1,41 @@
+* {
+margin: 5px;
+padding: 5px;
+margin-top: 10px;
+
+
+
+
+}
+body {
+    background-color: rgb(213, 234, 241);
+}
+.Text {
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-right: 150px;   
+
+}
+.Radio {
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.Checkbox {
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+button {
+    font-size: 15px;
+    background-color: rgb(0, 191, 255);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+}
+hr {
+    background-color: rgb(91, 187, 247);
+}
+h2 {
+    background-color: rgb(167, 217, 248);
+}
